@@ -17,11 +17,11 @@
 
 
 
+#bubbel short 
 
 
 
-
-a=[5,4,3,2,1]
+a=[1,2,3,4,5]   # iska use disnerey  pattern or licxography me hota hai 
 n=len(a)
 c=0
 for i in range(n):
