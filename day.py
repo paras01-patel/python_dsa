@@ -26,7 +26,7 @@ n=len(a)
 c=0
 for i in range(n):
     f=False
-    for j in range(n-1):
+    for j in range(n-i-1):
         c=c+1
         if a[j]>a[j+1]:
             t=a[j]
